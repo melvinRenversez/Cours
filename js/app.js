@@ -1,0 +1,1 @@
+document.getElementById('color-switch').addEventListener('click', ()=>{document.body.classList.toggle('actif')})
