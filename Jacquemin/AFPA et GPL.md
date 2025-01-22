@@ -1,71 +1,143 @@
-
+  
 # Réponses aux questions
 
+  
+
 ## **1. Citez les parties.**
-- **L'AFPA** : Association pour la Formation Professionnelle des Adultes.
-- **Le prestataire** : Entreprise chargée de fournir une solution logicielle et matérielle.
+
+- **L'AFPA** : L'association qui s'occupe de former les adultes.
+
+- **Le prestataire** : L’entreprise qui devait fournir le logiciel et le matériel.
+
+  
 
 ---
+
+  
 
 ## **2. Caractérisez les faits.**
-- L'AFPA a constaté que le prestataire avait livré un logiciel (VNC) sous licence GPL sans respecter les obligations de la licence, notamment en omettant le texte de la licence.
-- Une faille de sécurité dans le logiciel livré permettait un accès non autorisé à des machines.
+
+- L’AFPA a remarqué que le prestataire avait utilisé un logiciel libre (VNC) sous licence GPL, mais sans respecter les règles de la licence.
+
+- En plus, il y avait une faille de sécurité qui permettait d’accéder aux machines sans autorisation.
+
+  
 
 ---
+
+  
 
 ## **3. Présentez rapidement la procédure.**
-- L'AFPA a demandé la résiliation du contrat avec le prestataire pour non-conformité et faille de sécurité.
-- La cour d’appel a statué en faveur de l’AFPA, affirmant que la solution livrée ne respectait pas la licence GPL et présentait des risques de sécurité.
+
+| **Etape**    | **Tribunal** | **Cour d'appel** | **Cour de cassation** |
+| ------------ | ------------ | ---------------- | --------------------- |
+| **Demande**  | AFPA         | AFPA             |                       |
+| **Défence**  | Prestataire  | Prestataire      |                       |
+| **Décision** | Prestataire  | AFPA             |                       |
+
 
 ---
 
-## **4. Recherchez et expliquez en quoi consiste une licence GNU GPL. À quelle famille de logiciels fait-elle référence ?**
-- La **licence GNU GPL** est une licence libre qui garantit :
-  - La liberté d'utiliser le logiciel.
-  - La liberté de modifier le code source.
-  - La liberté de distribuer des copies modifiées ou non.
-- Elle appartient à la famille des **logiciels libres**.
+  
+
+## **4. C’est quoi une licence GNU GPL ? Elle fait partie de quelle famille de logiciels ?**
+
+- La **licence GNU GPL** permet :
+
+  - D’utiliser le logiciel comme on veut.
+
+  - De regarder et modifier son code source.
+
+  - De partager le logiciel, même modifié.
+
+- Elle fait partie des **logiciels libres**.
+
+  
 
 ---
 
-## **5. Le droit d'auteur (article L.111-1 du Code de la Propriété Intellectuelle) s'applique-t-il à la licence GPL ?**
-- Oui, la licence GPL repose sur le droit d'auteur pour accorder des libertés aux utilisateurs tout en imposant des conditions de redistribution et de modification.
+  
+
+## **5. Le droit d’auteur s’applique t-il à la licence GPL ?**
+
+- Oui, la licence GPL s’appuie sur le droit d’auteur pour donner des libertés tout en fixant des règles sur l’utilisation et la redistribution.
+
+  
 
 ---
 
-## **6. Par analogie au "copyright", comment appelle-t-on la protection des droits d'auteur d'une licence GPL ? Quel est le principe de cette protection particulière ? Quelle différence avec une licence open source ?**
-- La GPL protège les droits d'auteur via le concept de **copyleft**.
-- **Principe** : Toute redistribution du logiciel (modifiée ou non) doit respecter les mêmes libertés, garantissant que le logiciel reste libre.
-- **Différence avec l'open source** : 
-  - **Open source** garantit l'accès au code, mais sans obligation stricte de redistribution sous les mêmes termes.
+  
+
+## **6. C’est quoi le "copyleft" par rapport au copyright ? Et c’est quoi la différence avec une licence open source ?**
+
+- Le **copyleft**, c’est le système de protection utilisé par la GPL : 
+
+  - Si tu modifies ou redistribues un logiciel GPL, tu dois respecter les mêmes règles et le laisser libre.
+
+- La **différence avec open source** :
+
+  - L’open source donne accès au code source, mais n’oblige pas à partager les modifs sous la même licence.
+
+  
 
 ---
 
-## **7. La licence GPL est rédigée en anglais. Existe-t-il une licence libre française rédigée en français ?**
-- Oui, il existe des licences libres en français, comme la **Licence Publique Générale GNU version française** et la licence **CeCILL**.
+  
+
+## **7. Est-ce qu’il existe des licences libres écrites en français ?**
+
+- Oui, il y a des licences comme la **CeCILL**, qui est faite spécialement pour être utilisée en France.
+
+  
 
 ---
 
-## **8. Le logiciel libre VNC objet de ce litige avait des mentions de "copyright" qui avaient été remplacées et le texte de la GPL avait été supprimé. Que signifie "copyright" et quels droits en découlent normalement ?**
-- Le **copyright** est le droit d'auteur qui protège les créations originales en interdisant leur utilisation non autorisée.
-- **Droits découlant normalement** :
-  - Droit de reproduction.
-  - Droit de modification.
-  - Droit de distribution.
-  - Droit de représentation.
+  
+
+## **8. Le logiciel VNC avait perdu ses mentions de "copyright" et le texte de la GPL. C’est quoi le "copyright" et ça donne quels droits ?**
+
+- Le **copyright**, c’est le droit d’auteur classique. Il protège les créations pour que personne ne les utilise sans autorisation.
+
+- **Droits donnés normalement** :
+
+  - Reproduire le logiciel.
+
+  - Le modifier.
+
+  - Le partager.
+
+  - Le montrer publiquement.
+
+  
 
 ---
 
-## **9. A priori de tels actes peuvent déboucher sur une action juridique de quelle nature ?**
-- Une action juridique pour :
-  - **Violation des droits d’auteur**.
-  - **Non-respect des termes de la licence** (dans ce cas, la GPL).
-  - Mise en danger des utilisateurs à cause de failles de sécurité.
+  
+
+## **9. Quels problèmes juridiques ça peut créer ?**
+
+- Ces actions peuvent causer :
+
+  - Une plainte pour **violation des droits d’auteur**.
+
+  - Un souci pour non-respect de la licence GPL.
+
+  - Des problèmes liés à la sécurité des utilisateurs.
+
+  
 
 ---
 
-## **10. Sur quelle garantie s'appuie la cour d'appel pour donner sa décision ? Que doit-on en conclure en matière de livraison de solution informatique ?**
-- La cour s’appuie sur la **garantie d’éviction** (article 1626 du Code civil), qui impose au prestataire de livrer une solution exempte de risques juridiques.
+  
+
+## **10. Sur quoi la cour d’appel s’est basée pour décider ? Et on peut en conclure quoi ?**
+
+- La cour a utilisé la **garantie d’éviction** (un principe qui dit que le prestataire doit livrer un produit sans problème juridique).
+
 - **Conclusion** :
-  - Les solutions informatiques doivent être conformes aux licences des logiciels qu'elles utilisent.
-  - Les failles de sécurité ou les violations de licences peuvent justifier la résiliation d’un contrat.
+
+  - Quand on livre un logiciel, il doit respecter les licences des logiciels utilisés dedans.
+
+  - En plus, il ne doit pas avoir de faille de sécurité qui mettrait les utilisateurs en danger.
+
+---
